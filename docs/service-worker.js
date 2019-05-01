@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.b447b40db2e40e37c0ae6c2190f39157.js"
+  "precache-manifest.ed233948b987f1f58e9c4861dcc289b6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pwa_stady"});
