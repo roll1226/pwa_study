@@ -5,12 +5,12 @@
     {
       "src": "./img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "img/png"
+      "type": "image/png"
     },
     {
       "src": "./img/icons/android-chrome-512x512.png",
       "sizes": "512x512",
-      "type": "img/png"
+      "type": "image/png"
     }
   ],
   "start_url": "./index.html",
