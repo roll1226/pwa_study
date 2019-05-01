@@ -3,14 +3,29 @@
   "short_name": "pwa_stady",
   "icons": [
     {
+      "src": "./img/icons/android-chrome-48x48.png",
+      "sizes": "48x48",
+      "type": "img/png"
+    },
+    {
+      "src": "./img/icons/android-chrome-96x96.png",
+      "sizes": "96x96",
+      "type": "img/png"
+    },
+    {
+      "src": "./img/icons/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "img/png"
+    },
+    {
       "src": "./img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "img/png"
     },
     {
       "src": "./img/icons/android-chrome-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "img/png"
     }
   ],
   "start_url": "./index.html",
